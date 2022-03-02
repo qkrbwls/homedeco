@@ -1,0 +1,96 @@
+https://litho.themezaa.com/home-decor/
+
+총 11개 + 2
+
+header
+왼 : sns
+오 : 메일 | 시간
+메일은 a 시간은없음
+height 48 
+padding 0 35
+
+
+sec1
+내려갈때는 안보이는데 올라갈때는 헤더 있는것처럼 있음
+로고
+
+네비 
+
+서치, 카트
+height 80
+padding 0 35
+
+sec2
+화면 바뀌는 슬라이드 세개
+왼쪽 글씨, 오른쪽 이미지 
+움직임 o
+height 800
+
+sec3
+이미지 4개
+아래만 border
+height 228
+padding 90 0
+
+sec4
+왼오 이미지 움직임 o
+height 829
+padding 130 0
+
+sec5
+위 텍스트
+아래 이미지3 
+height 925
+padding 130 0
+
+sec6
+height 709
+padding 130 0
+
+sec7
+height 780
+padding 0 15
+
+sec8
+height 371
+padding 130 0
+
+sec9
+height 1402
+padding 130 0
+
+내부 padding 0 162
+sec10
+height298
+width 336 *4
+padding 42 49 *4
+
+위 글씨 #E6994E
+margin 0 0 25
+width 238
+height 20
+font 14
+
+아래 글씨 #232323
+width 204
+height 103
+font 25
+
+화살표
+238 * 47
+#828282
+
+
+sec11
+height 1036
+padding 130 0
+
+footer
+max-width 1349
+top height 330
+padding 67 0
+
+bottom height 107
+padding 35 0
+
+height => 437 
